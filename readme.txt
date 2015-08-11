@@ -1,6 +1,6 @@
 === Timber with Jetpack Photon ===
 Contributors: slimndap
-Tags: timber, jetpack, photon, cdn, images, imagemanipulation
+Tags: timber, jetpack, photon, cdn, images, imagemanipulation, twig
 Requires at least: 3.8
 Tested up to: 3.9
 Stable tag: trunk
